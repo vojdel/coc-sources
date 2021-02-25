@@ -1616,6 +1616,7 @@ hearts:♥
 diamonds:♦
 hotsprings:♨
 recycle:♻
+recycle_green:♻️
 wheelchair:♿
 hammer_pick:⚒
 anchor:⚓
